@@ -1,2 +1,2 @@
 # Pintos
-bài tập dài
+bài tập dài môn học hệ điều hành
